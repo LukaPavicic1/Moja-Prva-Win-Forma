@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\bin\Debug\Moja prva forma.exe.config
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\bin\Debug\Moja prva forma.exe
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\bin\Debug\Moja prva forma.pdb
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja prva forma.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja_prva_forma.Form1.resources
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja_prva_forma.Properties.Resources.resources
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja prva forma.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja prva forma.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja prva forma.exe
+C:\Users\korisnik\source\repos\Moja prva forma\Moja prva forma\obj\Debug\Moja prva forma.pdb
